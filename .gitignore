@@ -1,4 +1,4 @@
-*.PNG
+*.png
 *.csv
 nohup.out
 */*
